@@ -1,0 +1,10 @@
+body    .classe {
+    padding: 14px ,800px 
+}
+
+.header {
+    display: flex;
+    padding: 0px 800px;
+    align-items: center;
+}
+
