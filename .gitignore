@@ -1,1 +1,14 @@
-venv
+# Ambiente virtual
+venv/
+django_env/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Banco de dados local
+*.sqlite3
+
+# Arquivos de configuração da IDE
+.idea/
+.vscode/
