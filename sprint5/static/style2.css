@@ -1,5 +1,7 @@
 body    .classe {
-    padding: 14px ,800px 
+    padding: 14px 800px;
+    display: flex;
+    background-color: #dcd807;
 }
 
 .header {
@@ -10,6 +12,6 @@ body    .classe {
 
 .sair{
     color: red;
+    font-weight: bold;
 }
 
-/* Alterar depois para diferenciar mais do style1*/
